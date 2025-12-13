@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavitha&label=Profile%20views&color=0e75b6&style=flat" alt="mavitha" /> </p>
 
-- 🔭 I’m currently working on **Go**
+- 🔭 I’m currently working on **ProjectNewdawn**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **CyberSecurity**
 
-- 👯 I’m looking to collaborate on **Go**
-
-- 🤝 I’m looking for help with **Go**
-
-- 💬 Ask me about **Go**
+- 👯 I’m looking to collaborate on **Web Developing**
 
 - 📫 How to reach me **mavithakumara2004@gmail.com**
 
