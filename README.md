@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ProjectNewdawn**
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently learning **Advanced CyberSecurity**
 
 - 👯 I’m looking to collaborate on **Web Developing**
 
